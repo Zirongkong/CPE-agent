@@ -4,7 +4,7 @@
 cd /root
 
 # 1. 下载哪吒探针
-wget https://ghfast.top/https://github.com/nezhahq/agent/releases/download/v0.20.5/nezha-agent_linux_arm64.zip
+wget https://ghfast.top/https://github.com/railzen/nezha-zero/releases/download/v0.20.27/nezha-agent_linux_arm64.zip
 
 # 2. 解压、移动并赋予执行权限
 unzip -o nezha-agent_linux_arm64.zip
